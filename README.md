@@ -5,4 +5,4 @@
 ![Rocket part](/images/rocketPart.png) ![Rocket fuel](/images/rocketFuel.png) ![Rocket control unit](/images/rocketControlUnit.png) ![Satellite](/images/satellite.png)
 
 ## Low density structure
-For some unknown reason, I couldn't change the "low-density-structure", so I just left it out completely. The other materials needed are already big consumers of raw material, so it's fine like that.
+For [some ~~unknown~~ reason](https://mods.factorio.com/mod/SimpleRocketParts/discussion/6500eac2ecd8c6a540556e48), I couldn't change the "low-density-structure", so I just left it out completely. The other materials needed are already big consumers of raw material, so it's fine like that.

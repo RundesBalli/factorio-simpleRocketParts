@@ -1,5 +1,27 @@
-data.raw["recipe"]["rocket-part"].ingredients = {{"rocket-control-unit", 1},{"rocket-fuel", 1}}
-data.raw["recipe"]["rocket-control-unit"].ingredients = {{"iron-plate", 45},{"copper-plate", 45}}
-data.raw["recipe"]["rocket-fuel"].ingredients = {{"coal", 90}}
-data.raw["recipe"]["satellite"].ingredients = {{"iron-plate", 1800},{"copper-plate", 900}}
-data.raw["recipe"]["heavy-armor"].ingredients = {{"space-science-pack", 50000}}
+-- Rocket part
+data.raw["recipe"]["rocket-part"].ingredients = {
+  { type = "item", name = "rocket-control-unit", amount = 1 },
+  { type = "item", name = "rocket-fuel", amount = 1 },
+}
+
+-- Rocket control unit
+data.raw["recipe"]["rocket-control-unit"].ingredients = {
+  { type = "item", name = "iron-plate", amount = 45 },
+  { type = "item", name = "copper-plate", amount = 45 },
+}
+
+-- Rocket fuel
+data.raw["recipe"]["rocket-fuel"].ingredients = {
+  { type = "item", name = "coal", amount = 90 },
+}
+
+-- Satellite
+data.raw["recipe"]["satellite"].ingredients = {
+  { type = "item", name = "iron-plate", amount = 1800 },
+  { type = "item", name = "copper-plate", amount = 900 },
+}
+
+-- Heavy armor as a dump for the space science packs
+data.raw["recipe"]["heavy-armor"].ingredients = {
+  { type = "item", name = "space-science-pack", amount = 50000 },
+}

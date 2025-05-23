@@ -1,5 +1,6 @@
 -- Rocket part
 data.raw["recipe"]["rocket-part"].ingredients = {
+  { type = "item", name = "rocket-thingy", amount = 1 },
   { type = "item", name = "rocket-fuel", amount = 1 },
 }
 

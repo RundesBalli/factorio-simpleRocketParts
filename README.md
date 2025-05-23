@@ -4,14 +4,17 @@
 <hr>
 
 ## Screenshots
-### Modified parts
-![Rocket part](/images/rocketPart.png) ![Rocket fuel](/images/rocketFuel.png) ![Rocket control unit](/images/rocketControlUnit.png) ![Satellite](/images/satellite.png)
+### Modified items
+![Rocket part](/images/4-rocket-part.png) ![Rocket fuel](/images/2-rocket-fuel.png) ![Satellite](/images/3-satellite.png)
+
+### Added items
+![Rocket thingy](/images/1-rocket-thingy.png)
 
 ### Dump space science packs
 You can dump unused space science packs with the modified "Heavy Armor" recipe.  
-![Rocket part](/images/dumpSciencePacks.png)
+![Dump science packs](/images/5-dumpSciencePacks.png)
 
 <hr>
 
-## Low density structure
-For [some ~~unknown~~ reason](https://mods.factorio.com/mod/SimpleRocketParts/discussion/6500eac2ecd8c6a540556e48), I couldn't change the "low-density-structure", so I just left it out completely. The other materials needed are already big consumers of raw material, so it's fine like that.
+## Why?
+I like to process big amounts of material, without building a real factory.

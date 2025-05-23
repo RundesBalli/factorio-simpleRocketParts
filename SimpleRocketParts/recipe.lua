@@ -1,13 +1,6 @@
 -- Rocket part
 data.raw["recipe"]["rocket-part"].ingredients = {
-  { type = "item", name = "rocket-control-unit", amount = 1 },
   { type = "item", name = "rocket-fuel", amount = 1 },
-}
-
--- Rocket control unit
-data.raw["recipe"]["rocket-control-unit"].ingredients = {
-  { type = "item", name = "iron-plate", amount = 45 },
-  { type = "item", name = "copper-plate", amount = 45 },
 }
 
 -- Rocket fuel
